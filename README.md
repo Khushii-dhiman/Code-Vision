@@ -15,14 +15,13 @@ It helps users understand how sorting algorithms work step-by-step through inter
 - 📱 Responsive design
 
 ---
-
 ## 🛠️ Tech Stack
 
-- React.js
-- Vite
-- JavaScript (ES6+)
-- Tailwind CSS
-- HTML/CSS
+- ⚛️ React.js – UI library  
+- ⚡ Vite – Fast build tool  
+- 🎨 Tailwind CSS – Utility-first styling  
+- 🎞️ Framer Motion – Smooth animations  
+- 🔀 React Router – Page routing
 
 ---
 
