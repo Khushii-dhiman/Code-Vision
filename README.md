@@ -25,8 +25,19 @@ It helps users understand how sorting algorithms work step-by-step through inter
 
 ---
 
-## 📂 Project Setup
 
-### 1. Clone the repository
+## ⚙️ How to Run
+```bash
+git clone https://github.com/Khushii-dhiman/Code-Vision.git
+cd Code-Vision
+npm install
+npm run dev
+```
+
+---
+
+## 👩‍💻 Author
+**Khushi Dhiman**
+
 ```bash
 git clone https://github.com/Khushii-dhiman/Code-Vision.git
