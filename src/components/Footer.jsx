@@ -35,7 +35,7 @@ const Footer = () => {
   const socialLinks = [
     {
       title: "GitHub",
-      href: "https://github.com/knightofkalki",
+      href: "https://github.com/Khushii-dhiman",
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -54,7 +54,7 @@ const Footer = () => {
     },
     {
       title: "LinkedIn",
-      href: "https://www.linkedin.com/in/ujjwal-1x/",
+      href: "https://www.linkedin.com/in/khushi-dhiman-24b3a72b5",
       icon: (
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -201,7 +201,7 @@ const Footer = () => {
           viewport={{ margin: "-50px" }}
         >
           <p>
-            © {new Date().getFullYear()} © Code Vision — Crafted with ❤️ by Ujjwal
+            © {new Date().getFullYear()} © Code Vision — Crafted with ❤️ by Khushi
           </p>
           <div className="mt-2 space-x-4">
             <motion.button

@@ -132,6 +132,8 @@ const useDPStore = create((set, get) => ({
 
   runAlgorithm: async () => {
     const { input, currentAlgorithm } = get()
+
+    console.log("currentAlgorithm =", currentAlgorithm)
     
     set({ isPlaying: true })
 
